@@ -133,7 +133,7 @@
       "rating": 4.7
     }
   ],
-"aggregations": {
+  "aggregations": {
   "books": {
     "count": 1,
     "inventoryValue": 44417.60
